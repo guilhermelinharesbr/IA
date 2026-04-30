@@ -6,3 +6,9 @@ aula 12/59
 
 LM Studio:
 https://lmstudio.ai/
+
+Testar:
+LM Studio
+Perplexity
+Google Antigravity
+NotebookLM
