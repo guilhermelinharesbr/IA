@@ -11,4 +11,4 @@ Testar:
 LM Studio
 Perplexity
 Google Antigravity
-NotebookLM
+Google NotebookLM
