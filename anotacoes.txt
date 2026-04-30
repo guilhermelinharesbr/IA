@@ -12,3 +12,4 @@ LM Studio
 Perplexity
 Google Antigravity
 Google NotebookLM
+Cursor AI
