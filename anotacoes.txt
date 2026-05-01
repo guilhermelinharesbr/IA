@@ -2,10 +2,11 @@ Chat -> CEV - Curso de IA:
 https://chatgpt.com/g/g-5lw3vTPpm-cev-curso-de-ia
 
 Comecei a estudar dia 26/04/26
-aula 15/59
+aula 19/59
 
 LM Studio:
 https://lmstudio.ai/
+
 
 ----------------
 
@@ -43,6 +44,22 @@ Phi-4 (Microsoft) — modelos pequenos e eficientes
 GPT-4o — usado no Copilot web (copilot.microsoft.com) [Usa modelos da OpenAI por baixo]
 GPT-4 / o3 — dependendo da versão e contexto[Usa modelos da OpenAI por baixo]
 
+
+----------------
+
+NPU(Neural Processing Unit)
+
+Chatbot
+
+PLN(Processamento de Linguagem Natural (PLN) — em inglês Natural Language Processing (NLP))
+
+Tokens
+São as unidades básicas de informação, como peças de Lego, que os modelos de IA (LLMs) usam para processar, 
+entender e gerar textos. Eles representam caracteres, sílabas, partes de palavras ou palavras inteiras. 
+Em média, 1 token corresponde a cerca de 4 caracteres em inglês ou 0,75 de uma palavra.
+Ex: O ChatGPT 3 processa 4.096 tokens por solicitação. Isso inclui tanto o prompt quanto a resposta.
+Ex2: O ChatGPT 4 processa até 32.768 tokens por solicitação. Isso inclui tanto o prompt quanto a resposta.
+
 ----------------
 
 Testar:
@@ -52,4 +69,9 @@ Testar:
 . Google NotebookLM
 . Cursor AI
 . Magnific (antigamente chamado de Freepik)[aula13]
-#Ferramenta de IA para trabalhar com imagens, concorrente do Canva
+  #Ferramenta de IA para trabalhar com imagens, concorrente do Canva
+. HuggingChat:
+  https://huggingface.co/chat/
+  #Aula 16 - Crie seu assistente virtual 
+. QrcodeMonkey
+  #Aula 16 - Para gerar um QRcode a partir de uma URL
