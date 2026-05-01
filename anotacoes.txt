@@ -2,7 +2,7 @@ Chat -> CEV - Curso de IA:
 https://chatgpt.com/g/g-5lw3vTPpm-cev-curso-de-ia
 
 Comecei a estudar dia 26/04/26
-aula 20/59
+aula 23/59
 
 LM Studio:
 https://lmstudio.ai/
@@ -59,6 +59,11 @@ entender e gerar textos. Eles representam caracteres, sílabas, partes de palavr
 Em média, 1 token corresponde a cerca de 4 caracteres em inglês ou 0,75 de uma palavra.
 Ex: O ChatGPT 3 processa 4.096 tokens por solicitação. Isso inclui tanto o prompt quanto a resposta.
 Ex2: O ChatGPT 4 processa até 32.768 tokens por solicitação. Isso inclui tanto o prompt quanto a resposta.
+
+----------------
+
+Prompt
+No contexto de IA, especialmente em modelos de liguagem, ele é uma instrução ou estímulo dado ao sistema para obter uma resposta ou comportamento específico.
 
 ----------------
 
