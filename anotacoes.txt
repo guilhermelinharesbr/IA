@@ -13,5 +13,5 @@ Testar:
 . Google Antigravity
 . Google NotebookLM
 . Cursor AI
-. Magnific (antigamente chamado de FreepiK)[aula13]
+. Magnific (antigamente chamado de Freepik)[aula13]
 #Ferramenta de IA para trabalhar com imagens, concorrente do Canva
