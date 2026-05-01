@@ -8,8 +8,10 @@ LM Studio:
 https://lmstudio.ai/
 
 Testar:
-LM Studio
-Perplexity
-Google Antigravity
-Google NotebookLM
-Cursor AI
+. LM Studio
+. Perplexity
+. Google Antigravity
+. Google NotebookLM
+. Cursor AI
+. Magnific (antigamente chamado de FreepiK)[aula13]
+#Ferramenta de IA para trabalhar com imagens, concorrente do Canva
