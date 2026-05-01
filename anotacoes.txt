@@ -2,7 +2,7 @@ Chat -> CEV - Curso de IA:
 https://chatgpt.com/g/g-5lw3vTPpm-cev-curso-de-ia
 
 Comecei a estudar dia 26/04/26
-aula 19/59
+aula 20/59
 
 LM Studio:
 https://lmstudio.ai/
