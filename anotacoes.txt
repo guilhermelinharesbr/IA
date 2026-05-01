@@ -63,7 +63,8 @@ Ex2: O ChatGPT 4 processa até 32.768 tokens por solicitação. Isso inclui tant
 ----------------
 
 Prompt
-No contexto de IA, especialmente em modelos de liguagem, ele é uma instrução ou estímulo dado ao sistema para obter uma resposta ou comportamento específico.
+No contexto de IA, especialmente em modelos de liguagem, ele é uma instrução ou estímulo dado ao sistema
+para obter uma resposta ou comportamento específico.
 
 ----------------
 
