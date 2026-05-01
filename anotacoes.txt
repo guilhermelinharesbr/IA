@@ -2,10 +2,48 @@ Chat -> CEV - Curso de IA:
 https://chatgpt.com/g/g-5lw3vTPpm-cev-curso-de-ia
 
 Comecei a estudar dia 26/04/26
-aula 12/59
+aula 15/59
 
 LM Studio:
 https://lmstudio.ai/
+
+----------------
+
+LLM (Large Language Model)
+Os LLMs são um tipo de IA que são treinados em grandes quantidades de dados de texto.
+Exemplos:
+
+Anthropic:
+Claude (Opus, Sonnet, Haiku) — focado em segurança e raciocínio
+
+OpenAI:
+GPT-4o / GPT-4.1 — amplamente usado em produtos e APIs
+o3 / o4-mini — modelos de raciocínio avançado
+
+Google:
+Gemini 2.5 Pro / Flash — integrado ao ecossistema Google
+
+Meta (open-source):
+LLaMA 3.x — muito popular para uso local e fine-tuning
+
+Mistral AI (open-source/comercial):
+Mistral Large, Mixtral — eficientes e multilíngues
+
+xAI:
+Grok 3 — integrado ao X (Twitter)
+
+DeepSeek (open-source):
+DeepSeek-V3 / R1 — modelos chineses de alto desempenho e custo baixo
+
+Command R+ (Cohere) — focado em RAG e uso empresarial
+Qwen 2.5 (Alibaba) — forte em multilíngue e código
+
+Microsoft:
+Phi-4 (Microsoft) — modelos pequenos e eficientes
+GPT-4o — usado no Copilot web (copilot.microsoft.com) [Usa modelos da OpenAI por baixo]
+GPT-4 / o3 — dependendo da versão e contexto[Usa modelos da OpenAI por baixo]
+
+----------------
 
 Testar:
 . LM Studio
