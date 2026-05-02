@@ -81,3 +81,4 @@ Testar:
   #Aula 16 - Crie seu assistente virtual 
 . QrcodeMonkey
   #Aula 16 - Para gerar um QRcode a partir de uma URL
+. OpenClaw
