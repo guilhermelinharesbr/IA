@@ -1,5 +1,5 @@
 Comecei a estudar dia 26/04/26
-aula 23/59
+aula 24/59
 
 Chat -> CEV - Curso de IA: 
 https://chatgpt.com/g/g-5lw3vTPpm-cev-curso-de-ia
@@ -82,3 +82,5 @@ Testar:
 . QrcodeMonkey
   #Aula 16 - Para gerar um QRcode a partir de uma URL
 . OpenClaw
+. Napkin AI - para gerar imagens, gráficos, com base em textos.
+
