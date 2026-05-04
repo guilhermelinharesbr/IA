@@ -83,4 +83,5 @@ Testar:
   #Aula 16 - Para gerar um QRcode a partir de uma URL
 . OpenClaw
 . Napkin AI - para gerar imagens, gráficos, com base em textos.
+. DeepSeek
 
