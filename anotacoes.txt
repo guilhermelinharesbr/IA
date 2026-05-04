@@ -68,6 +68,12 @@ para obter uma resposta ou comportamento específico.
 
 ----------------
 
+IAs de texto generativo:
+são modelos de inteligência artificial treinados em grandes volumes de dados para compreender padrões da linguagem
+humana e, a partir de instruções (prompts), criar novos conteúdos textuais coerentes e contextualmente relevantes.
+
+----------------
+
 Testar:
 . LM Studio
 . Perplexity
@@ -84,4 +90,6 @@ Testar:
 . OpenClaw
 . Napkin AI - para gerar imagens, gráficos, com base em textos.
 . DeepSeek
+. Jasper
+. BERT
 
