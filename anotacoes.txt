@@ -74,6 +74,10 @@ humana e, a partir de instruções (prompts), criar novos conteúdos textuais co
 
 ----------------
 
+Role Prompting "Prompting de atuação"
+
+----------------
+
 Testar:
 . LM Studio
 . Perplexity
