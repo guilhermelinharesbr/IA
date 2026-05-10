@@ -78,6 +78,13 @@ Role Prompting "Prompting de atuação"
 
 ----------------
 
+Harness:
+No contexto de IA, especialmente em 2026, harness (ou agent harness) refere-se ao conjunto de infraestrutura de 
+software, ferramentas, processos e estruturas que envolvem um modelo de IA LLM para potencializar suas capacidades 
+e torná-lo funcional no mundo real.
+
+----------------
+
 Testar:
 . LM Studio
 . Perplexity
