@@ -49,9 +49,15 @@ GPT-4 / o3 — dependendo da versão e contexto[Usa modelos da OpenAI por baixo]
 
 NPU(Neural Processing Unit)
 
+----------------
+
 Chatbot
 
+----------------
+
 PLN(Processamento de Linguagem Natural (PLN) — em inglês Natural Language Processing (NLP))
+
+----------------
 
 Tokens
 São as unidades básicas de informação, como peças de Lego, que os modelos de IA (LLMs) usam para processar, 
