@@ -1,5 +1,5 @@
 Comecei a estudar dia 26/04/26
-aula 30/59
+aula 31/59
 
 Chat -> CEV - Curso de IA: 
 https://chatgpt.com/g/g-5lw3vTPpm-cev-curso-de-ia
@@ -82,6 +82,13 @@ Harness:
 No contexto de IA, especialmente em 2026, harness (ou agent harness) refere-se ao conjunto de infraestrutura de 
 software, ferramentas, processos e estruturas que envolvem um modelo de IA LLM para potencializar suas capacidades 
 e torná-lo funcional no mundo real. A tradução harness é arreios/aproveitar.
+
+----------------
+
+Showing examples:
+Refere-se ao conjunto de informações, dados históricos e instruções situacionais fornecidas a um modelo para que ele
+compreenda uma consulta e gere uma resposta precisa. Ele atua como uma "memória" ou repertório, permitindo que a IA 
+não responda apenas de forma genérica, mas personalizada e alinhada às necessidades específicas do usuário.
 
 ----------------
 
