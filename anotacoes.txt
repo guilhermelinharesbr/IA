@@ -99,8 +99,8 @@ não responda apenas de forma genérica, mas personalizada e alinhada às necess
 ----------------
 
 Frameworks de prompt:
-São estruturas organizadas (como PTF, R.E.F.I.N.E., CRISPE) que dividem as instruções para IA em componentes como papel,
-contexto, tarefa e formato, garantindo respostas mais precisas, consistentes e úteis. 
+São estruturas organizadas (como PTF, R.E.F.I.N.E., CRISPE) que dividem as instruções para IA em componentes como 
+papel, contexto, tarefa e formato, garantindo respostas mais precisas, consistentes e úteis. 
 Exemplo: 
          - Um papel "Role Prompting"
          - Contexto
