@@ -1,5 +1,5 @@
 Comecei a estudar dia 26/04/26
-aula 32/59
+aula 33/59
 
 Chat -> CEV - Curso de IA: 
 https://chatgpt.com/g/g-5lw3vTPpm-cev-curso-de-ia
@@ -96,6 +96,18 @@ Refere-se ao conjunto de informações, dados históricos e instruções situaci
 compreenda uma consulta e gere uma resposta precisa. Ele atua como uma "memória" ou repertório, permitindo que a IA 
 não responda apenas de forma genérica, mas personalizada e alinhada às necessidades específicas do usuário.
 
+----------------
+
+Frameworks de prompt:
+São estruturas organizadas (como PTF, R.E.F.I.N.E., CRISPE) que dividem as instruções para IA em componentes como papel,
+contexto, tarefa e formato, garantindo respostas mais precisas, consistentes e úteis. 
+Exemplo: 
+         - Um papel "Role Prompting"
+         - Contexto
+         - Exemplos "Showing examples"
+         - Uma instrução ou tarefa 
+         - Uma pergunta
+         
 ----------------
 
 Testar:
