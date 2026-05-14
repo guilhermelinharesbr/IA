@@ -114,6 +114,13 @@ Comprimento de contexto
 
 ----------------
 
+Prompt de preparação:
+- Dando estilo à conversa
+- Estruturação da conversa
+- Instruções para casos especiais
+
+----------------
+
 Testar:
 . LM Studio
 . Apps de IA como Claude, ChatGPT, etc
