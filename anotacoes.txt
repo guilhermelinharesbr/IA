@@ -140,4 +140,5 @@ Testar:
 . DeepSeek
 . Jasper
 . BERT
+. Ideogram - AI Image Generation [aula 37]
 
