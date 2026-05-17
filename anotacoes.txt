@@ -121,6 +121,10 @@ Prompt de preparação:
 
 ----------------
 
+Vieses em IA
+
+----------------
+
 Testar:
 . LM Studio
 . Apps de IA como Claude, ChatGPT, etc
