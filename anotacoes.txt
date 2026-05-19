@@ -1,5 +1,5 @@
 Comecei a estudar dia 26/04/26
-aulas 40/59
+aulas 41/59
 
 Chat -> CEV - Curso de IA: 
 https://chatgpt.com/g/g-5lw3vTPpm-cev-curso-de-ia
@@ -131,8 +131,10 @@ Vieses em IA
 ----------------
 
 Alucinações
+Alucinações Aritiméticas
 
 ----------------
+
 
 Testar:
 . LM Studio
