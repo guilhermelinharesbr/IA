@@ -163,3 +163,4 @@ Testar:
 . Codex -> Open AI 
 . Claude Code -> Anthropic
 . Figma AI - sugestão da Amanda
+. Verdant AI - para projetos de programação
