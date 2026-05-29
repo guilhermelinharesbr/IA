@@ -164,3 +164,4 @@ Testar:
 . Claude Code -> Anthropic
 . Figma AI - sugestão da Amanda
 . Verdent AI - para projetos de programação
+. CodeRabbit
