@@ -173,3 +173,4 @@ Testar:
 . Verdent AI - para projetos de programação
 . CodeRabbit
 . Open Code
+. Fable 5
