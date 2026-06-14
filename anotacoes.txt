@@ -1,7 +1,7 @@
 Comecei a estudar dia 26/04/26
 
 Módulo 2 foi de 08/06/26 até ??/??/26
-aulas 5/38
+aulas 6/38
 
 Módulo 1 foi de 26/04/26 até 08/06/26
 aulas 59/59
@@ -139,6 +139,11 @@ Vieses em IA
 
 Alucinações
 Alucinações Aritiméticas
+
+----------------
+
+Criação de personagem:
+Para criar um personagem de jogo com IA é preciso descrever ele por inteiro, como cabelo, rosto, cor dos olhos etc, e principalmente nomear ele, para que na próxima interação seja mais fácil a IA te dar um retorno igual, sem descaracterizar o personagem, bastante citar o nome do persongaem e mudar as características que forem necessárias.
 
 ----------------
 
