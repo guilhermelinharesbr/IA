@@ -171,6 +171,14 @@ Manipulação de Prompts
 
 ---
 
+Aprimorando prompts:
+
+Usar Objetivos e instruções:
+- Objetivo:
+- Instruções:
+
+---
+
 _Para estudos pós curso_:
 - LM Studio
 - Apps de IA como Claude, ChatGPT, etc
