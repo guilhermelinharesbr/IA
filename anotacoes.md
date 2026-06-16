@@ -5,7 +5,7 @@
 Comecei a estudar dia 26/04/26
 
 Módulo 2 foi de 08/06/26 até ??/??/26
-aulas 7/38
+aulas 8/38
 
 Módulo 1 foi de 26/04/26 até 08/06/26
 aulas 59/59
@@ -175,7 +175,17 @@ Aprimorando prompts:
 
 Usar Objetivos e instruções:
 - Objetivo:
-- Instruções:
+- Instruções e Ações:
+- Conteúdo:
+
+---
+
+_Método ACR_:
+
+- _Análise_: coletar informações de qualidade.
+  I. Livros, apostilas, PDFs, Imagens, sites confiáveis, etc.   
+- _Criação_: gerar conteúdo com a IA de forma direcionada.
+- _Refinamento_: ajustar e melhorar o conteúdo até que ele fique perfeito.
 
 ---
 
