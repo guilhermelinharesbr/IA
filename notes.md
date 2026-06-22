@@ -223,3 +223,4 @@ Aula13 Ferramenta de IA para trabalhar com imagens, concorrente do Canva
 - Kling AI: Next-Generation AI Creative Studio
 - Runway AI Video Generation
 - Sora chatgpt
+- Odysseus AI
