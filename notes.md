@@ -224,3 +224,4 @@ Aula13 Ferramenta de IA para trabalhar com imagens, concorrente do Canva
 - Runway AI Video Generation
 - Sora chatgpt
 - Odysseus AI
+- Manus AI
