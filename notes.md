@@ -5,7 +5,7 @@
 Comecei a estudar dia 26/04/26
 
 Módulo 2 foi de 08/06/26 até ??/??/26<br>
-aulas 11/38
+aulas 12/38
 
 Módulo 1 foi de 26/04/26 até 08/06/26<br>
 aulas 59/59
@@ -189,7 +189,8 @@ _Método ACR_:
 - _Refinamento_: ajustar e melhorar o conteúdo até que ele fique perfeito.
   I. Corrigir possíveis erros. 
   II. Melhorar a clareza e o tom de voz.
-  III. Adaptar o conteúdo ao seu público-alvo. 
+  III. Adaptar o conteúdo ao seu público-alvo.
+  IV. É interessante dividir em multiprompts para obter os melhores resultados. 
 
 ---
 
