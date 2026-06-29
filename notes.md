@@ -5,7 +5,7 @@
 Comecei a estudar dia 26/04/26
 
 Módulo 2 foi de 08/06/26 até ??/??/26<br>
-aulas 15/38
+aulas 16/38
 
 Módulo 1 foi de 26/04/26 até 08/06/26<br>
 aulas 59/59
@@ -19,10 +19,10 @@ https://chatgpt.com/g/g-5lw3vTPpm-cev-curso-de-ia
 
 ### Sumário
 
-- Conceitos
-- Empresas e suas LLMS
-- Ferramentas
-- Para estudos pós curso
+- [Conceitos](#conceitos)
+- [Empresas e suas LLMS](#empresas-e-suas-llms)
+- [Ferramentas](#ferramentas)
+- [Para estudos pós curso](#para-estudos-pós-curso)
 
 ---
 
@@ -194,7 +194,7 @@ _Método ACR_:
 
 ---
 
-_Para estudos pós curso_:
+##### Para estudos pós curso:
 - LM Studio
 - Apps de IA como Claude, ChatGPT, etc
 - Perplexity
