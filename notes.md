@@ -229,3 +229,4 @@ Aula13 Ferramenta de IA para trabalhar com imagens, concorrente do Canva
 - Deep Research Gemini
 - Sakana AI - Fugu
 - Conceito de Transformers em IA
+- Artifical Narrow Intelligence
