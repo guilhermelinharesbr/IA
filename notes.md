@@ -5,7 +5,7 @@
 Comecei a estudar dia 26/04/26
 
 Módulo 2 foi de 08/06/26 até ??/??/26<br>
-aulas 19/38
+aulas 21/38
 
 Módulo 1 foi de 26/04/26 até 08/06/26<br>
 aulas 59/59
@@ -231,3 +231,4 @@ Aula13 Ferramenta de IA para trabalhar com imagens, concorrente do Canva
 - Conceito de Transformers em IA
 - ANI- Artifical Narrow Intelligence
 - AGI - Artificial General Intelligence
+- ASI - Artificial Super Intelligence
