@@ -5,7 +5,7 @@
 Comecei a estudar dia 26/04/26
 
 Módulo 2 foi de 08/06/26 até ??/??/26<br>
-aulas 23/38
+aulas 24/38
 
 
 Módulo 1 foi de 26/04/26 até 08/06/26<br>
@@ -236,3 +236,4 @@ Aula13 Ferramenta de IA para trabalhar com imagens, concorrente do Canva
 - Extenção do Google Chrome: 'HTML to Markdown Converter'
 - Extenção/complemento -> google drive/Google Docs: "Docs to Markdown"
 - Framework STAR  
+- Quatro Pilares par um Prompt Perfeito: **1**. Objetivo Principal, **2**. Como você quer ser respondido, **3**. Alertas e Avisos, **4**. Chuva de Contexto.
