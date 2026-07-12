@@ -5,7 +5,7 @@
 Comecei a estudar dia 26/04/26
 
 Módulo 2 foi de 08/06/26 até ??/??/26<br>
-aulas 27/38
+aulas 28/38
 
 
 Módulo 1 foi de 26/04/26 até 08/06/26<br>
@@ -238,3 +238,4 @@ Aula13 Ferramenta de IA para trabalhar com imagens, concorrente do Canva
 - Framework STAR  
 - Quatro Pilares par um Prompt Perfeito: **1**. Objetivo Principal, **2**. Como você quer ser respondido, **3**. Alertas e Avisos, **4**. Chuva de Contexto.
 - Meta Muse Image
+- Google Gems
