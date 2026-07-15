@@ -5,7 +5,7 @@
 Comecei a estudar dia 26/04/26
 
 Módulo 2 foi de 08/06/26 até ??/??/26<br>
-aulas 30/38
+aulas 31/35
 
 
 Módulo 1 foi de 26/04/26 até 08/06/26<br>
