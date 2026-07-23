@@ -240,3 +240,4 @@ Aula13 Ferramenta de IA para trabalhar com imagens, concorrente do Canva
 - Meta Muse Image
 - Google Gems
 - Chatgpt Plugins
+- Sesame.com - para treinar Inglês?
