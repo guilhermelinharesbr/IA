@@ -241,3 +241,4 @@ Aula13 Ferramenta de IA para trabalhar com imagens, concorrente do Canva
 - Google Gems
 - Chatgpt Plugins
 - Sesame.com - para treinar Inglês?
+- Seedance 2.5 Video Generator
